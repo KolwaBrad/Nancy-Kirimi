@@ -1,5 +1,5 @@
 /* =====================================================================
-   Nancy Kirimi — Personal Portfolio
+   Kirimi Nancy — Personal Portfolio
    1. Header state          4. Impact counters
    2. Mobile navigation     5. Portfolio filtering
    3. Scroll reveal         6. Gallery lightbox
